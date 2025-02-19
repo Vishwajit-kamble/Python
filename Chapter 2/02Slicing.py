@@ -1,3 +1,4 @@
+
 str = "Vishwajit"
 
 print(str[0:5]) #Vishw
