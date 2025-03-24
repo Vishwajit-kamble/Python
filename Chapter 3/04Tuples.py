@@ -1,0 +1,1 @@
+# It is bult in data types that lets us create immutable sequences of values
