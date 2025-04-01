@@ -1,1 +1,0 @@
-print("This is Git Reposetaroy")

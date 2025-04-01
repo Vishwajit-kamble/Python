@@ -35,7 +35,7 @@ list = [5,2,4,1,2]
 # print(list)
 
 # 7) list.pop(idx).
-# list.pop(4)
-# print(list)
+list.pop(4)
+print(list)
 
 
