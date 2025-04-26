@@ -2,19 +2,19 @@
 # i=1
 # while i<=100:
 #     print(i)
-#     i+=1
+#     i = i+1
 
 # print 100 to 1
 # i=100
 # while i>=1:
 #     print(i)
-#     i-=1
+#     i = i-1
 
 # Print multiplication table upto n
 # n = int(input("Enter number: "))
 # i=1
 # while i<=10:
-#     print(n*i)
+#     print(n,"X",i,"=",n*i)
 #     i+=1
 
 #print the below list using loops

@@ -1,7 +1,7 @@
 # 1)str.endswith("")
-# str = "I am Vishwajit"
-# str = str(input("Enter The String : "))
-# print(str.endswith("jit"))
+# str = "I am Vishwajit"ṇ
+str = str(input("Enter The String : "))
+print(str.endswith("jit"))
 
 # 2)str.capitalize()
 # str = "Vishwajit"
@@ -21,5 +21,5 @@
 # print(str.find("L")) # Returns the index of frist occurence element
 
 # 5) str.count("")
-str = "Vishwajit Kamble"
-print(str.count(input("What to check : ")))
+# str = "Vishwajit Kamble"
+# print(str.count(input("What to check : ")))

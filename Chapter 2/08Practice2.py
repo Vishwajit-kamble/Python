@@ -3,7 +3,7 @@ num = int(input("Enter the number : "))
 if(num == 1):
     print("Natural Number !")
 elif(num == 0 ):
-    print("Nor Even NOr odd")
+    print("Nor Even Nor odd")
 elif(num%2==0):
     print("The Number is Even !")
 else: 
